@@ -1,5 +1,5 @@
 {
-    "name": "php-on-couch/php-on-couch",
+    "name": "kushalraj/php-on-couch",
     "type": "library",
     "description": "CouchDB NoSQL database access in PHP",
     "keywords": [
@@ -26,7 +26,7 @@
             "role": "Developer"
         },
         {
-            "name": "Alexis Côté",
+            "name": "Alexis C�t�",
             "email": "alexiscote19@hotmail.com",
             "homepage": "https://popojargo.github.io/",
             "role": "Developer"
